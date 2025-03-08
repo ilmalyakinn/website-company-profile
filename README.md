@@ -27,7 +27,8 @@
    http://localhost/website-company-profile/
    ```
 ## **Tampilan Website**
-Lihat demo website di tautan berikut:  
+Lihat demo website di tautan berikut: 
+[Link Website](https://ilmalyakinn.github.io/website-company-profile/)
 
 [🎥 Klik di sini untuk melihat video demo](https://github.com/user-attachments/assets/3e486cc5-167e-444d-b96a-016dcecd1528)
 
